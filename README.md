@@ -7,5 +7,5 @@ Nevo Ben Ari - QA Engineer - Portfolio
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
 
-## About me
+# About me
 Hey
