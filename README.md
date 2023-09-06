@@ -1,11 +1,8 @@
 # QA-Portfolio
 Nevo Ben Ari - QA Engineer - Portfolio
-- [About me](#about-me)
-- [CV](#cv)
-- [Skills](#skills)
-- [Tools](#tools)
-- [Courses](#courses)
-- [Examples of my work](#examples-of-my-work)
 
-## About me
-As a John Bryce Tel-Aviv QA course graduate with honors and an ISTQB certified professional, I specialize in manual testing of web, mobile, and desktop applications across various platforms. I have consistently identified and documented bugs, backed by my detail-oriented and analytical mindset. I am actively enhancing my skills in test automation through online courses. I am recognized for my exemplary teamwork, unwavering commitment to quality, and ability to handle tight deadlines. I am eager to leverage my expertise, delve deeper into testing specialties, and contribute to a team's success.
+STD + Bug Findings and Reports for Battle.net Software:
+https://docs.google.com/spreadsheets/d/1guY7L6Bti6GlAzSTzOd5LJK8ej9xpapU/edit?usp=drive_link&ouid=108068656386666679142&rtpof=true&sd=true
+
+STP + Test Cases for MediaFire website 
+https://docs.google.com/document/d/1895EykGNJpiZ_cfxjY-CJaWl8fmCBcCB/edit?usp=drive_link&ouid=108068656386666679142&rtpof=true&sd=true
