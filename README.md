@@ -8,9 +8,12 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 
 ## Courses and Certificates
 
-__John Bryce QA Software Testing course (7 Months)__
-  * GPA- 97
-  * ISTQB Certification
+__QA Software Testing course- John Bryce Tel-Aviv (7 Months)__
+  * 97 GPA + ISTQB Certification
+    
+__Rest API testing with Postman- Udemy__
+
+    
 
 STD + Bug Findings and Reports for Battle.net Software:
 https://docs.google.com/spreadsheets/d/1guY7L6Bti6GlAzSTzOd5LJK8ej9xpapU/edit?usp=drive_link&ouid=108068656386666679142&rtpof=true&sd=true
