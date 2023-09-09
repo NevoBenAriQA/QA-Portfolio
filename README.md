@@ -19,5 +19,5 @@ __Rest API testing with Postman- Udemy__
 ## Examples of my work
   * [MediaFire.com STP](https://docs.google.com/document/d/1895EykGNJpiZ_cfxjY-CJaWl8fmCBcCB/edit?usp=sharing&ouid=108068656386666679142&rtpof=true&sd=true)
   * [Battle.net STD + Bug findings and reports](https://docs.google.com/spreadsheets/d/1guY7L6Bti6GlAzSTzOd5LJK8ej9xpapU/edit?usp=sharing&ouid=108068656386666679142&rtpof=true&sd=true)
-  * [Agile Scrum methodology Project in Jira (Hebrew)](https://nevobenari.atlassian.net/jira/software/c/projects/NS/boards/2/timeline?shared=&atlOrigin=eyJpIjoiMzU2MDM3NzZiMzdhNDFkMGExZjVjOTg4Njk0Y2M4MDciLCJwIjoiaiJ9)
+  * [Agile Scrum Methodology Project in Jira (Hebrew)](https://nevobenari.atlassian.net/jira/software/c/projects/NS/boards/2/timeline?shared=&atlOrigin=eyJpIjoiMzU2MDM3NzZiMzdhNDFkMGExZjVjOTg4Njk0Y2M4MDciLCJwIjoiaiJ9)
   * [Automation testing for collecting network data and console errors (Python)](https://github.com/NevoBenAriQA/QA-Portfolio/blob/main/mediaFireNetWorkData.py)
