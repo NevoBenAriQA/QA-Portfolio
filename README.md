@@ -11,7 +11,7 @@ As a budding QA Engineer, I'm keen on joining a team where I can harness my skil
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/12PxY50dQU_tCrS0y3D6WcGLjhVAm-9PV/view?usp=sharing).
 
 ## Courses and Certificates
-__QA Software Testing course- John Bryce Tel-Aviv (7 Months)__
+__QA Software Testing course- John Bryce Tel-Aviv__
   * 97 GPA + ISTQB Certification
 
 __Rest API testing with Postman- Udemy__
