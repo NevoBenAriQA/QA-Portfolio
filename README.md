@@ -12,7 +12,8 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 
 ## Courses and Certificates
 __QA Software Testing course- John Bryce Tel-Aviv (7 Months)__
-  * 97 GPA + ISTQB Certification 
+  * 97 GPA + ISTQB Certification
+
 __Rest API testing with Postman- Udemy__
 
 ## Examples of my work
