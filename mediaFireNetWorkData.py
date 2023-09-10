@@ -20,7 +20,7 @@ server = None
 
 try:
     # Setup browsermob proxy server
-    server = Server("C:\\Proxy\\browsermob-proxy-2.1.4\\bin\\browsermob-proxy.bat")
+    server = Server("C:\\...")
     server.start()
     proxy = server.create_proxy()
 
