@@ -8,7 +8,7 @@ I have hands-on experience with tools such as Selenium, Jira, Postman, and profi
 As a budding QA Engineer, I'm keen on joining a team where I can harness my skills, contribute effectively, and continue to learn and innovate.
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1eyUaYx87hU8rW1HgWWkV746D1jPOrDKY/view?usp=sharing).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1eAmMmaf3CxKF-pQK3cUgc8deC35fmhgW/view?usp=sharing).
 
 ## Courses and Certificates
 __QA Software Testing course- John Bryce Tel-Aviv__
